@@ -1,4 +1,5 @@
 ## Customer Service Requests Analysis
+![image](https://github.com/user-attachments/assets/da8fb677-3384-4f8a-a39a-7473cb6591ae)
 
 DESCRIPTION
 
